@@ -1,0 +1,10 @@
+#Папки не нужны
+tmp/
+.idea/
+out/
+
+#Файлы не нужны
+Thumbs.db
+*.DS_Store
+*.iml
+
